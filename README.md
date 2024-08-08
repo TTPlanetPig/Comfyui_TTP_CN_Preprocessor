@@ -1,2 +1,2 @@
 # HYDiT_controlnet_preprocessor
-for comfyui
+for comfyui image proprocessor
