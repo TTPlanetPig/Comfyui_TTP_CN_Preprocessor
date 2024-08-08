@@ -1,2 +1,2 @@
-# HYDiT_controlnet_preprocessor
-for comfyui image proprocessor
+# for comfyui image proprocessor
+Adapt for Hunyuan now
