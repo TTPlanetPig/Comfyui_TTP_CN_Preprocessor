@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_ttp_cn_preprocessor"
+description = "Adapt for Hunyuan now\nNOTE: The files in the repo are not organized, which may lead to update issues."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["opencv-python-headless"]
+
+[project.urls]
+Repository = "https://github.com/TTPlanetPig/Comfyui_TTP_CN_Preprocessor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui_TTP_CN_Preprocessor"
+Icon = ""
